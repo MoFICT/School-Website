@@ -1,0 +1,1 @@
+// comment, just like game maker including /*, cool cool
